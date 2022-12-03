@@ -19,6 +19,7 @@ In this section, you should include detailed installation notes containing code 
 ## Usage
 
 This section should include screenshots, code blocks, or animations explaining how to use your project.
+![Screenshot](screenshot.png)
 
 ---
 
