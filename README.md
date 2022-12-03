@@ -55,7 +55,7 @@ Made with ♥ love ♥ by Evan Badding
 ## License
 MIT License
 
-Copyright (c) 2022 qfed1
+Copyright (c) 2022 Evan Scott Badding
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
