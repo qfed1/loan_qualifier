@@ -1,0 +1,13 @@
+PS C:\Users\evanb\Downloads\Starter_Code (1)\Starter_Code\loan_qualifier_app> & C:/Users/evanb/AppData/Local/Programs/Python/Python310/python.exe "c:/Users/evanb/Downloads/Starter_Code (1)/Starter_Code/loan_qualifier_app/app.py"
+? Enter a file path to a rate-sheet (.csv): data\daily_rate_sheet.csv
+? What's your credit score? 750
+? What's your current amount of monthly debt? 2000
+? What's your total monthly income? 5000
+? What's your desired loan amount? 2000
+? What's your home value? 500000
+The monthly debt to income ratio is 0.40
+The loan to value ratio is 0.00.
+Found 9 qualifying loans
+? Save file as csv? Yes
+? Please input the file path you would like to use. qualifying_loans.csv
+PS C:\Users\evanb\Downloads\Starter_Code (1)\Starter_Code\loan_qualifier_app>
