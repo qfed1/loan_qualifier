@@ -8,13 +8,13 @@ Just after the title, introduce your project by describing attractively what the
 
 Describe the technologies required to use your project such as programming languages, libraries, frameworks, and operating systems. Be sure to include the specific versions of any critical dependencies that you have used in the stable version of your project.
 ![Screenshot](images/screenshot2.png)
-![Screenshot](images/screenshot3.png)
+![Screenshot](images/screenshot1.jpg)
 ---
 
 ## Installation Guide
 
 In this section, you should include detailed installation notes containing code blocks and screenshots.
-![Screenshot](images/screenshot1.png)
+![Screenshot](images/screenshot3.png)
 
 ---
 
