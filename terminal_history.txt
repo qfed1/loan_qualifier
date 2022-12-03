@@ -1,0 +1,71 @@
+  255  git add -a
+  256  git add -A
+  257  git commit -m "finished up the project"
+  258  git push
+  259  cd existing_repo
+  260  git remote add origin https://du.bootcampcontent.com/denver-coding-bootcamp/DU-VIRT-FIN-PT-09-2022-U-B.git
+  261  git branch -M main
+  262  git push -uf origin Homework_Submissions_Week_1
+  263  dev
+  264  conda activate dev
+  265  conda
+  266  activate dev
+  267  conda
+  268  export PATH="C:\Users\evanb\anaconda3/bin:$PATH"
+  269  conda activate dev
+  270  env
+  271  env activate dev
+  272  pip install fire
+  273  git
+  274  clear
+  275  git clone https://github.com/qfed1/loan_qualifier
+  276  cd loan_qualifier
+  277  dir
+  278  cd ..
+  279  cd git
+  280  clear
+  281  git clone https://github.com/qfed1/loan_qualifier
+  282  cd loan_qualifier
+  283  git add -A
+  284  git commit -m "these are my files"
+  285  git push
+  286* git add terminalhistor
+  287  git commit -m this is the initial commit for the project"
+
+
+
+
+d
+r
+
+r
+
+r
+r4
+rr
+433
+5
+35
+45
+
+tr
+y65y
+exit()
+git commit -m this is the initial commit for the project"
+  288  d
+  289  r
+  290  r
+  291  r
+  292  r4
+  293  rr
+  294  433
+  295  5
+  296  35
+  297  45
+  298  tr
+  299  y65y
+  300  exit() exit()
+  301  git commit -m "this is a text file of the commit"
+  302  git commit
+  303  git push
+  304  history 50 > terminal_history.txt
