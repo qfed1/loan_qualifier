@@ -6,7 +6,6 @@ Just after the title, introduce your project by describing attractively what the
 
 ## Technologies
 
-Describe the technologies required to use your project such as programming languages, libraries, frameworks, and operating systems. Be sure to include the specific versions of any critical dependencies that you have used in the stable version of your project.
 ![Screenshot](images/screenshot2.png)
 ![Screenshot](images/screenshot1.jpg)
 
@@ -34,15 +33,22 @@ Install Dependancies Fire, and questionary using PIP package manager. This will 
 ```
 
 ## Usage
-
-This section should include screenshots, code blocks, or animations explaining how to use your project.
+# After cloning the repository, run this python command, (the bare script) 
+```python
+python3 app.py
+```
+After Launching the app, This CLI enviroment will pop up. make sure you use "data/daily_rate_change.csv" as your first variable, as it contains all of the banks you can use for the list.
+After Entering the csv file of the available banks, Enter in your loan information
+Last thing is to save the csv. give it a title and make sure you end with *.csv*
 ![Screenshot](images/screenshot.png)
 
 ---
 
 ## Contributors
 
-In this section, list all the people who contribute to this project. You might want recruiters or potential collaborators to reach you, so include your contact email and, optionally, your LinkedIn or Twitter profile.
+Made with ♥ love ♥ by Evan Badding 
+
+[My Email](mailto:evanbadding@gmail.com)
 
 ---
 
