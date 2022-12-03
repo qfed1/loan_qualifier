@@ -9,14 +9,29 @@ Just after the title, introduce your project by describing attractively what the
 Describe the technologies required to use your project such as programming languages, libraries, frameworks, and operating systems. Be sure to include the specific versions of any critical dependencies that you have used in the stable version of your project.
 ![Screenshot](images/screenshot2.png)
 ![Screenshot](images/screenshot1.jpg)
+
+The following project uses python 3.10.6 with These third party packages 
+
+
+
+
+[Questionary - For the User Dialogs And Prompts](https://github.com/tmbo/questionary)
+
+[Google Fire- For the Command line interface](https://github.com/google/python-fire)
+
+
+---
 ---
 
 ## Installation Guide
 
-In this section, you should include detailed installation notes containing code blocks and screenshots.
-![Screenshot](images/screenshot3.png)
+Install Dependancies Fire, and questionary using PIP package manager. This will not work without the packages.
 
----
+```python
+  pip install questionary
+  pip install fire
+
+```
 
 ## Usage
 
