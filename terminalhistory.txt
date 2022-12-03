@@ -1,0 +1,49 @@
+
+evanb@swagbucks MINGW64 ~/git
+$ git clone https://github.com/qfed1/loan_qualifier
+Cloning into 'loan_qualifier'...
+remote: Enumerating objects: 3, done.
+remote: Counting objects: 100% (3/3), done.
+remote: Total 3 (delta 0), reused 0 (delta 0), pack-reused 0
+Receiving objects: 100% (3/3), done.
+
+evanb@swagbucks MINGW64 ~/git
+$ cd loan_qualifier
+
+evanb@swagbucks MINGW64 ~/git/loan_qualifier (main)
+$ git add -A
+warning: in the working copy of 'data/daily_rate_sheet.csv', LF will be replaced by CRLF the next time Git touches it
+
+evanb@swagbucks MINGW64 ~/git/loan_qualifier (main)
+$ git commit -m "these are my files"
+[main edd1b2e] these are my files
+ 16 files changed, 403 insertions(+), 1 deletion(-)
+ create mode 100644 app.py
+ create mode 100644 data/daily_rate_sheet.csv
+ create mode 100644 qualifier/filters/__pycache__/credit_score.cpython-310.pyc
+ create mode 100644 qualifier/filters/__pycache__/debt_to_income.cpython-310.pyc
+ create mode 100644 qualifier/filters/__pycache__/loan_to_value.cpython-310.pyc
+ create mode 100644 qualifier/filters/__pycache__/max_loan_size.cpython-310.pyc
+ create mode 100644 qualifier/filters/credit_score.py
+ create mode 100644 qualifier/filters/debt_to_income.py
+ create mode 100644 qualifier/filters/loan_to_value.py
+ create mode 100644 qualifier/filters/max_loan_size.py
+ create mode 100644 qualifier/utils/__pycache__/calculators.cpython-310.pyc
+ create mode 100644 qualifier/utils/__pycache__/fileio.cpython-310.pyc
+ create mode 100644 qualifier/utils/calculators.py
+ create mode 100644 qualifier/utils/fileio.py
+ create mode 100644 qualifying_loans.csv
+
+evanb@swagbucks MINGW64 ~/git/loan_qualifier (main)
+$ git push
+Enumerating objects: 26, done.
+Counting objects: 100% (26/26), done.
+Delta compression using up to 16 threads
+Compressing objects: 100% (23/23), done.
+Writing objects: 100% (24/24), 8.78 KiB | 2.20 MiB/s, done.
+Total 24 (delta 2), reused 0 (delta 0), pack-reused 0
+remote: Resolving deltas: 100% (2/2), done.
+To https://github.com/qfed1/loan_qualifier
+   29db0fc..edd1b2e  main -> main
+
+evanb@swagbucks MINGW64 ~/git/loan_qualifier (main)
